@@ -1,4 +1,5 @@
  test case1
-
+test case titel: some title
+steps to reprodux: 1,2,3
 
 test case 2
