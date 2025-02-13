@@ -1,5 +1,6 @@
  test case1
 test case titel: some title
-steps to reprodux: 1,2,3
+steps to reprodux: 1,2,3git
 
 test case 2
+info abaut test case2
